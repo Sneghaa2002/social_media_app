@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Memories
 
 ![Memories](https://i.ibb.co/Z8Y0CJv/Screenshot-2020-10-30-at-11-10-04.png)
@@ -14,3 +15,6 @@ By the end of this video, you will have a strong understanding of how the MERN S
 
 Setup:
 - run ```npm i && npm start``` for both client and server side to start the app
+=======
+# social_media_app
+>>>>>>> 3d3de1bbef8bc6c9124024ca11d1b919d8708f16
