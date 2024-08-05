@@ -19,3 +19,7 @@ Technologies
 -> Backend: Node.js, Express 
 
 -> Database: MongoDB 
+
+<img width="922" alt="image" src="https://github.com/user-attachments/assets/994e3230-f485-4a5b-9e4e-d99e5edf043f">
+
+
